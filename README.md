@@ -81,6 +81,20 @@
     
   3.Though logistic regression model is easy to handle, decision trees method is still significant in getting a model with higher accuracy
 
+Each individual contribution in the project:
+
+Liang Jianpeng:
+
+    1.Initial data-driven Insights from the dataset 2.Manage the imbalance 3.Exploratory Data Analysis 4.Logistic Regression Model
+
+Tang Yeqing:
+
+    1.Improvement for Initial data-driven Insights from the dataset 2. Improvement for Exploratory Data Analysis 3.Decision Tree 
+
+Joint completion:
+
+    1.Search for datasets 2.Slides 3.Film
+
 Reference：
 
 https://www.nickmccullum.com/python-machine-learning/logistic-regression-python/
