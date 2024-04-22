@@ -97,7 +97,7 @@ Tang Yeqing:
 
     1.Improvement for Initial data-driven Insights from the dataset 
     
-    2. Improvement for Exploratory Data Analysis 
+    2.Improvement for Exploratory Data Analysis 
     
     3.Decision Tree 
 
