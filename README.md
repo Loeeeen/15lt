@@ -80,3 +80,13 @@
     Although these factors are not necessarily causally related to depression. People with the above characteristics have higher possibility to have mental problem. 
     
   3.Though logistic regression model is easy to handle, decision trees method is still significant in getting a model with higher accuracy
+
+Reference：
+
+https://www.nickmccullum.com/python-machine-learning/logistic-regression-python/
+
+https://www.statisticssolutions.com/dummy-coding-the-how-and-why/#:~:text=Dummy%20coding%20is%20a%20way%20of%20incorporating%20nominal,value%20%28such%20as%20grade%20point%20average%2C%20or%20GPA%29.
+
+https://elitedatascience.com/imbalanced-classes
+
+
